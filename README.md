@@ -40,3 +40,5 @@ The application is intended to enable the automation of certain processes relate
 ## Schedule of screenings
 ![image](https://github.com/user-attachments/assets/ccab167a-c3f2-47ad-84d5-4dacfd86bfe4)
 
+## Annotation
+This project was created with help tutorials and documentations. Special thanks to the creators of the technologies and libraries used in this project.
