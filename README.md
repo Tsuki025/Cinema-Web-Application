@@ -40,10 +40,5 @@ The application is intended to enable the automation of certain processes relate
 ## Schedule of screenings
 ![image](https://github.com/user-attachments/assets/ccab167a-c3f2-47ad-84d5-4dacfd86bfe4)
 
-## LICENSE
-Copyright (c) 2025 [Jakub Kmiołek]
-
-This work is licensed for non-commercial use only. Redistribution, modification, and usage for educational and personal purposes are permitted. Commercial use is strictly prohibited without explicit permission from the author.
-
 ## Annotation
 This project was created with help tutorials and documentations. Special thanks to the creators of the technologies and libraries used in this project.
